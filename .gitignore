@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+checkpoints/
+checkpoints/sam2_hiera_large.pt
+.venv/
+.idea/
+*.pt

@@ -1,0 +1,1496 @@
+[
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            0.0,
+            86.0,
+            199.0,
+            510.0
+        ],
+        "expanded_bbox": [
+            0,
+            76,
+            209,
+            512
+        ],
+        "mask": "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",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            0.0,
+            92.0,
+            193.0,
+            292.0
+        ],
+        "expanded_bbox": [
+            0,
+            82,
+            203,
+            302
+        ],
+        "mask": "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",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            171.0,
+            364.0,
+            273.0,
+            469.0
+        ],
+        "expanded_bbox": [
+            161,
+            354,
+            283,
+            479
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAGEUlEQVR4Ae3BC3IURgIFwar7H7qXxdiW+Eoz4IjWq0zJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNPkYDkjeTz6Ew/9J3ks+hMNnkneSj+DwheR95AM4/EvyHvIBHF6QvIN8AIfXJG8l9zt8Q/I2cr/D90jeQK53+BHJr8j1Dj8k+QW53eFnJD8ltzv8lORn5HKHX5H8mFzu8EuSH5K7Hd5A8iNyt8NbSH5ArnZ4I8l3yc0ObyX5LrnZ4c0k3yMXO7yd5HvkXof3kHyHXOvwPpJvya0O7yX5hlzq8H6Sr8mdDo+QfEWudHiI5CtyocOjJK/JXQ7PkbwiNzk8S/KK3OTwNMlLcpPD0yQvyUUOz5O8JBc5PE/yktzk8DTJS3KTw9MkL8lNDk+TvCRXOTxJ8orc5fAcyStymcNTJK/IdQ5PkLwiVzo8SPKKXOrwEMkrcqvDQyQvyb0OD5C8JBc7PEDygtzs8ADJv+RmhwdI/iVXOzxA8g+52+EBkr/J5Q4PkHwhlzs8QvIXud3hAZK/yO0Oj5B8Jtc7PETyiVzv8BgJyPUOD5Ig1zs8SiLXOzxM5sntDk+QdXK7w1Nkm9zu8DyZJZc7/CYySe52+H1kkFzt8FvJHLnU4U+QNXKVwx8mY+Qihz9Ptsg9Dv8B2SL3OPwHZIvc4/BfkClykcN/QKbITQ5/nkyRqxz+OJkiVzn8ebJErnL482SJ3OXwh8kWucvhz5IxcpfDdwiH30LWyF0O35JPDr+BzJG7HL4lnxyeJ3vkMoevyWeHp8keuczha/LZ4XkyRy5z+Ir85fA02SOXOXxFvjg8S/bIZQ6vyd8OT5JBcpvDS/KPw5NkkNzm8C956fAUWSTXOfxNXjk8QybJdQ5/ka8dHiaj5EKHT+Rbh88EDu8hq+TDOryZzJKP6/BGsks+sMObyDD50A5vIMPkYzv8kiyTD+/wUzJNBhx+SMbJgsMPyDqZcPgumScbDt8hkRGHb0iQEYevSUBWHF6TfCJDDl9IvpAph08k/5BMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTPsf5KF6AZaMFm0AAAAASUVORK5CYII=",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            183.0,
+            284.0,
+            236.0,
+            373.0
+        ],
+        "expanded_bbox": [
+            173,
+            274,
+            246,
+            383
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAFnElEQVR4Ae3BUWrFVgIFwe79L/qGgSEQ2c+WP6XTVZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmnyLgck98lbHP4luUve4PAfkrvkBQ5Xknvk8Q7fkNwiT3f4juQWebjD9yR3yMMdvie5Q57t8InkBnm0w0eSG+TJDj+Q/E4e7PAjya/kuQ6/kPxGHuvwK8kv5KkON0h+Jk91uEPyI3mowz2Sn8hDHe6SfCYPdbhL8pk81OE2yUfyUIfbJB/JQx1uk3wkD3W4TfKRPNThNslH8lCH2yQfyUMdbpN8JM90uE/ykTzT4T7JR/JMh/skH8kzHe6TfCTPdLhP8pE80+EPJJ/IMx3+QPKJPNPhDySfyDMd/kLygTzT4S8kH8gzHf5E8j15psOfSL4nz3T4G8m35JkOfyT5jjzT4Y8k35GHOvyR5BvyUIe/knwlT3X4I8lX8mSH+yTfkIc73CT5hjzd4SbJV/J4h3skX8nzHW6RfCUvcLhF8oW8weEOyRfyBoc7JF/IKxzukFzJKxzukFzJKxzukFzJOxxukFzJOxxukFzJOxxukFzJSxxukFzISxxukFzISxxukFzISxxukFzISxxukFzISxxukFzISxxukFzISxxukFzISxxukFzISxxukFzISxxukFzISxxukFzISxxukFzISxxukFzISxx+J7mSlzj8TnIlL3H4neRKXuLwO8mVvMThd5IreYvDryRX8hqH30iu5D0Ov5BcyZscfiS5klc5/ERyJS9z+ExyJa9z+EDyhbzV4UryhbzY4T8kX8jLHf4l+UJe7/B/ki9kwOF/JF/JhAOSb0imSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpv0DbJhcAc9Z/zUAAAAASUVORK5CYII=",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            91.0,
+            423.0,
+            139.0,
+            511.0
+        ],
+        "expanded_bbox": [
+            81,
+            413,
+            149,
+            512
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAFlElEQVR4Ae3BQRLlRALFQOn+h65hDT18b+wi4ilTMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNvnTk8BfJf4R85/A3ktvkM4d/kFwmnzn8geQq+crhjyQ3yVcOfya5SL5y+H8k18hXDv9OcoF85fCL5HPykcNvkq/JRw6/Sb4mHzn8JvmafOTwm+Rr8pHDb5KvyUcOP0k+Jx85/CT5nHzj8Jvkc/KNw2+Sz8k3Dr9JPiffOPwm+Zx84/Cb5HPyicNvku/JJw6/Sb4nnzj8JvmefOLwm+R78oXDA5LvyRcOD0i+J184/Ca5QL5w+E1ygXzh8JvkAvnC4TfJBfKBwwOSC+QDhwckF8gHDg9ILpAPHH6T3CAfOPwmuUHed3hAcoO87/CA5AZ53+EByQ3yvsMDkhvkfYffJFfI6w4PSK6Q1x0ekFwhrzs8ILlCXnd4QHKFvO7wgOQKed3hN8kd8rbDA5I75G2HByR3yNsOD0jukLcdHpDcIW87PCC5Q952eEByh7zs8IDkEnnZ4QHJJfKywwOSS+Rlhwckl8jLDg9ILpGXHR6QXCIvOzwguUTedXhAcou86/CA5BZ51+EByS3yrsMDklvkXYcHJLfIqw5PSG6RVx0ekFwjrzo8ILlGXnV4QHKNvOrwgOQaedXhAck18qbDE5Jr5E2HByT3yJsOD0jukTcdHpDcI286PCC5R150eEJyj7zo8ITkHnnR4QnJPfKiwxOSe+RFhwckF8mLDg9ILpL3HJ6QXCTvOTwhuUjec3hCcpG85/CE5CJ5z+EJyUXyosNvkpvkTYefJDf9Dx71XAHvoDLUAAAAAElFTkSuQmCC",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            0.0,
+            352.0,
+            64.0,
+            414.0
+        ],
+        "expanded_bbox": [
+            0,
+            342,
+            74,
+            424
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAE0ElEQVR4Ae3BQZIdRQDFQOn+hy6CjYGwB49/r6qfMiXTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTPEh2efhBMsfDf0mWePiJZIaHX5CM8PArkg0efkkywcOvSRZ4+IJkgIevSN7Pw9ckb+fh/0jezcNvSF7Mw+9J3srDt0heycO3SV7Hwx+RvIqHPyV5Dw8fkLyEh09I3sHDZyRv4OFDkhfw8CnJ/Tx8TnI7Dw9ILufhCcndPDwjuZmHZyQ38/CM5GYenpHczMMzkpt5eEhyMQ8PSS7m4SHJxTw8JLmYh4ckF/PwjORmHp6R3MzDM5KbeXhGcjMPz0hu5uEZyc08PCO5mYdnJDfz8Ijkah4ekVzNwyOSq3l4RHI1D49IrubhEcnVPDwhuZuHJyR38/A5ye08fEpyPw+fkLyDhz8keREPf0DyMh6+S/I+Hr5F8kpy+C3JW8nfDl+TvJj8cPiJ5OXk3w7/kAyQTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTPsLUPdBAdSgUTsAAAAASUVORK5CYII=",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            263.0,
+            39.0,
+            347.0,
+            111.0
+        ],
+        "expanded_bbox": [
+            253,
+            29,
+            357,
+            121
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAFjUlEQVR4Ae3BUWIbRAIFwe77H3oWAoEkztqy9MP4dZVkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJrkEw5/kq9D8qDDP+TLkDzi8BP5KiQfOvxKvgrJBw5vyVchec/ht+SrkLzj8HvyVUjecfg9+Sok7zj8nnwVkrcOyJ8Ovydw5AuQ/OzwF/nD4V1yPckPDv8SOLxPbif57vATgcMH5HKSvxx+JXD4gNxN8s3hDYHDR+Rqkj8d3hI4fESuJvnT4S35w+EjcjPJN4c35A+Hj8m9JN8c3hI4fEzuJfnm8DtyeIBcS/KXwwvkVpK/HV4gl5L87fAKuZPku8Mr5EqS7w6vkCtJvju8RG4k+cfhJXIhyT8Or5H7SP51eIncR/Kvw2vkOpIfHF4i15H86PASuY3kJ4eXyGUkPzu8RO4i+cXhFXIXya8Or5CrSH51eIVcRfLW4QVyE8k7Dk+Qi0g+cPgsuYfkY4dPkXtIHnL4BLmG5FGHR8k1JA87PEpuIXnc4VFyCclnHB4jl5B8yuExcgfJpxweI3eQfM7hMXIFyScdHiJXkHzW4SFyA8mnHR4iF5B83uERcgHJ5x0eIv99kiccHiH/fZInHB4h/32SZxw+JheQPOPwMbmA5BmHj8gVJE85vE/uIHnK4V1yCclTDu+Qa0iecvi/5CKSpxz+D7mK5CmH35LLSJ5yeEvuI3nK4RdyJclTDj+SW0mecfiB3EvyjMM/5GaSZxz+JneTPOPwjdxO8pQDyP0k0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0/4H+kVXAVfPPhoAAAAASUVORK5CYII=",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            391.0,
+            0.0,
+            458.0,
+            56.0
+        ],
+        "expanded_bbox": [
+            381,
+            0,
+            468,
+            66
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAFFElEQVR4Ae3BQZIsNALFQOn+h/ZAsGU+Xa6NO54yJY84fEy+JnnD4YJ8S/KEwx35juQJhzvyHckLDrfkK5IXHO7JFyQvOHxB7klecPiC3JO84PANuSZ5wuEbckvyisM9uSR5x+GWXJK85HBHLknecrgidySPOdyQO5LXHC7IHclzDp+TO5IHHT4mVyQPOnxMrkhedPiUXJG86PAxuSF50eFjckPyosPH5IbkSYdPyQ3Jkw6fkhuSJx0+JhckTzp8TC5I3nT4lFyQvOnwIbkhedThM3JD8qjDR+SK5FWHT8gVybMOH5ArkmcdPiBXJO86/JxckTzs8GNyRfKww0/JHcnLDj8kdyQvO/yQ3JG87PBDckfyssMPyR3J0w4/IpckTzv8iFySvO3wE3JJ8rbDT8glyeMOPyCXJI87/IBckrzu8N/kkuR5h/8ityS/wOHP5JbkNzj8kdyS/AqHP5Fbkt/h8P/JNclvcfh38gXJr3H4N/INyS9y+Iv87fAP+Yrktzr8Tb4imSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZ9j+HmzwBwycwswAAAABJRU5ErkJggg==",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            363.0,
+            138.0,
+            511.0,
+            199.0
+        ],
+        "expanded_bbox": [
+            353,
+            128,
+            512,
+            209
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAFI0lEQVR4Ae3BC3Zb1wEEwe79L/rm45PEsSUSgMQHgNNVkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpksscQF6L5DKHP8jrkFzl8CfyGiRXOfyFPJ/kKoe/kyeTXObwQ/JEksscfkaeRXKZw8/Jc0iuc/iIPIHkQocPyeUklzp8TK4ludThM3IlybUOn5LrSC52+JxcRXKxwy3kGpKrHW4jF5Bc7nAj+XKSZzjcRr6Y5EkOt5GvJHmew43kq0ie6nAb+RqSZzvcRr6A5AUcbiS/meQ1HG4kv5PkZRxuJL+N5IUcbia/heTFHG4kv4Hk5RxuJb9K8oION5NfInlJh5vJL5C8qMPt5FGSl3W4gzxE8soOd5D7SV7c4Q5yJ8nLO9xF7iB5B4e7yK0kb+JwH7mF5G0c7iSfkryRw53kE5K3cribfEDybg6PkB+SvJ/DY+RvJG/q8BD5P5L3dXiM/JfknR0eJf8meXOHB8k/Sd7d4WEieX+Hh0m+g8ODJN/D4SGSb+LwCMm3cbif5Bs5/I8cPif53g4fknx/h5+SjDj8iGTJ4S8kaw5/Ihl0+A/JqMO/SGYdQDLsIJkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZ9g/sdkDywAo01QAAAABJRU5ErkJggg==",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            234.0,
+            451.0,
+            291.0,
+            503.0
+        ],
+        "expanded_bbox": [
+            224,
+            441,
+            301,
+            512
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAE5UlEQVR4Ae3BUW4QRwAFwe77H3oSgZQgwPZ6P6dflUyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyazB8OIA0yvzj8Su4n85/Db+R6Mj8d/kYuJ/PD4a/kcjJw+JDcTYbDx+RuMhw+IVeTOXxGriZ5h0/J1aTu8Dm5msQdviBXk7bDl+RmUnZ4QG4mYYcn5GbSdXhEbiZVh4fkZtJ0eE4uJkmHb5CLSdDhW+RiUnP4LrmYtBxekHtJyOEduZeEHN6Re0nH4SW5l2Qc3pJ7ScbhJbmYZBxekotJxuEluZhkHF6Si0nG4SW5mGQcXpKLScbhJbmYdBzekYtJx+EduZh0HN6Ri0nH4R25mHQc3pGLScfhFbmZhBzekJtJyOENuZmUHH6Qw3NyM0k5gPzr8JjcTKIOT8nNpOrwkNxMsg6PyNWk6/CEXE3CDg/I1aTs8CW5m7QdviB3k4HDR+RyMv87/E4uJ/OBA3I9mTSZNJk0mTSZNJk0mTSZtH8AAzM5AYDzCXcAAAAASUVORK5CYII=",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            428.0,
+            52.0,
+            477.0,
+            101.0
+        ],
+        "expanded_bbox": [
+            418,
+            42,
+            487,
+            111
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAE9klEQVR4Ae3BUQ7YRADFQPv+h16oEBIg2iT8Lc8zkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmS/4MD8l9I/gcOP8h3kvsd/iQfSW53+Av5RnKfw+/kD4e/km8k1zn8QX44/I18IrnO4ZfkA8ltDk/kNcltDs/kJcllDm/IO5LLHF6RVyR3ObwlL0iucnhPnkmucvhAHklucvhEnkhucvhEnkgucvhGnkgucvhGnkjucfhInkjucfhInkjucfhInkiucfhKnkiucfhKnkiucfhIHkmucfhIHkmucfhIHkmucfhIHknucfhEnknucfhEnknucfhCXpDc4/CBvCG5x+EDeUNyj8N78orkHofX5B3JPQ6vyTuSexzekpck9zi8JG9J7nF4Sd6S3OPwjrwmucfhFXlPcpHDC/KB5CKHZ/KF5CaHJ/KJ5CaHJ/KJ5C6HX5JvJJc5/Ip8I7nM4efkK8ltDj8lX0nuc/h38pnkUod/ku8k0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTfgPxPDYBBS9WmwAAAABJRU5ErkJggg==",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            62.0,
+            298.0,
+            109.0,
+            347.0
+        ],
+        "expanded_bbox": [
+            52,
+            288,
+            119,
+            357
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAE+UlEQVR4Ae3BQa4cRwLFQPL+h87B7GxD0u9C9SKFxwjJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNPmuw/9J/hLyRYd/kVxPvuXwC5K7yZccfk1yM/mOw29J7iVfcfgTya3kGw5/JrmUfMHhJ5I7yXuHn0muJO8dPiC5kbx2+IjkQvLa4TOS+8hbhw9J7iNvHT4luY68dPiY5Dry0uFzktvIS4fPSW4j7xwekNxG3jk8IbmMvHN4QnIZeefwhOQy8srhGcld5JXDM5K7yCuHZyR3kVcOz0juIq8cnpHcRV45PCO5i7xyeEZyF3nl8IzkLvLK4RnJXeSVwzOSu8g7hyckl5F3Dk9ILiPvHB6Q3EZeOnxMch156fAxyXXkpcOnJPeRtw4fktxH3jp8RnIhee3wEcmF5L3DByQ3kvcOP5NcSb7g8APJpeQbDn8iuZZ8xeG3JBeT7zj8huRm8iWHX5HcTb7m8F+S28kXHf5B8heQLzuA5G8hmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZ9j9gPjQB5NzHNwAAAABJRU5ErkJggg==",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            14.0,
+            0.0,
+            57.0,
+            67.0
+        ],
+        "expanded_bbox": [
+            4,
+            0,
+            67,
+            77
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAFOUlEQVR4Ae3BUZJrRwEFwar9L7oJsAN4M7qSft2nMuW1wxPJReS1wwPJTeS1w2uSq8iDw0uSq8iDwyuSu8iTwwuSu8iTwwuSu8iTwwuSu8ijw2+Su8izw0+Sy8izw0+Sy8gbh58kd5F3Dj9JriJvHX6S3ETeOrwkuYS8dXgkuYC8dXgm+eeTtw7PJP988tbhmeSfT946PJJcQN46PJHcQN45PJFcQd45PJDcQd44PJBcQp4dnkguIY8OjySXkAeHdyR3kFcOH0juIL8dPpNcQX45fENyA/nh8B3JDeRPhy9JbiB/OHxLcgP5w+FbkhvInw5fktxAfjh8R3ID+enwFckN5KfDVyQ3kF8O35DcQH45fENyA/nt8AXJDeSFw2eSG8grh48kN5CXDp9IbiAvHT6SXEBeO3wiuYA8OHwguYA8OHwguYA8OrwluYA8OrwluYA8O7wjuYC8cXgmuYG8c3giuYK8c3gguYO8dXhBcg157/CL5B7yweFPkpvIB4c/SK4inxz+j+Qu8tHhfyR3kY8O/yW5jHx2+JvkNvKFw18kt5EvHP4iuY184/AfktvIVw7/JrmNfOcAkuvIlw6S+0imSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpv0LCpxGAcapq58AAAAASUVORK5CYII=",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            467.0,
+            340.0,
+            511.0,
+            414.0
+        ],
+        "expanded_bbox": [
+            457,
+            330,
+            512,
+            424
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEzUlEQVR4Ae3BUVJdBxTEQGn/iz5Jqmw/bAOB3zvqlkyTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTrDoEyabjXyJZdPwgWXT8IBl0/CTZc/wimXO8SOYcL5I5x4tkzvEimXO8SOYcL5I5x4tkzvEimXO8SOYcL5I5x4tkzvEimXO8SOYcL5I9xy+SPccvkjnHi2TO8SKZc7xI1hxvSNYcb0jWHG9IxhxvScYcb0nGHG9Jthy/kWw5fiOZcvxOsuT4g2TJ8QfJkONPkh3HXyQzjr9JVhzvkKw43iEZcbxHsuF4l2TC8T7JguMDkgHHRyQDjo9Inu/4kOTxjo9Jnu74hOTpjk9IHuf4l/xwfEbyOMdPwvEpydMc3yB5muMbJE9zfIPkaY5vkDzN8Q2Spzm+QfI0xzdIHuf4OsnzHF8meaDjqyRPdHyR5JGOr5E81PEVkqc6vkDyXMf/kjzY8X8kj3Z8TvJsx6ckD3d8RvJ8x4ckC46/yH8kI44f5A3JNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJtH8Amh9OuvIfEMUAAAAASUVORK5CYII=",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            183.0,
+            284.0,
+            221.0,
+            336.0
+        ],
+        "expanded_bbox": [
+            173,
+            274,
+            231,
+            346
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAE/ElEQVR4Ae3BQa7YxgEFwe77H3oSZBHAtkRS3s1/XSWZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmP8sByXfyUxz+T/KV/ASHv5J8JD/A4e8k38j1Dv8k+Uaud/gFySdyucOvSb6Qyx1+TfKF3O3wO5IP5GqH35O8k5sdHkjeycUOjySv5GKHZ5I3cq/DC8kbudXhneSF3OrwTvJCLnX4QPJCLnX4QvJMLnX4QvJMLnX4QvJMLnX4QvJMLnX4QvJMLnX4QvJMLnX4QvJM7nT4RPJM7nT4RPJM7nT4RPJM7nT4RPJM7nT4RPJM7nT4RPJM7nT4RPJM7nT4RPJM7nT4RPJM7nT4QvJC7nT4QvJC7nT4QvJC7nT4QvJC7nT4QPJG7nT4QPJG7nR4J3kldzq8kryTOx3eSD6QSx2eSb6QWx0eSb6Qqx1+Q/KJ3O7wT5KP5HqHv5N8Jfc7/JXkM/kJDv8jR/JH5Ec4gOTPyY9w+C/JH5Mf4QCSPyc/w0HyL0imSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmm/QfCkzgBDV89twAAAABJRU5ErkJggg==",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            456.0,
+            30.0,
+            511.0,
+            65.0
+        ],
+        "expanded_bbox": [
+            446,
+            20,
+            512,
+            75
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEoElEQVR4Ae3BUXJUSQDEQOn+h25gITBmTcTM++xSpmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmuQSB+RtkkscvpM3Se5w+EXeIbnD4Tf55Mi/Se5w+JP8dPggX5Dc4fCZfHf4H/lEcofD6+Q3yR0O75BfJHc4vEf+I7nD4W0CkiscnhDJFQ7PSK5weEZyhcMzkiscnpFc4fCM5AqHZyRXODwjucLhGckVDs9IrnB4RnKH4+EByT0Ob5Pc5PAmyVUO75Hc5fAWyWUO75Bc5/A6yX0OL5Pc6PAiyZ0OL5Fc6vAKya0OX/PwQXKtw1fkh8NPkosdPpMPhx8kFzv8Qf52QDJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMu0bOxAt6F8w9tsAAAAASUVORK5CYII=",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            273.0,
+            409.0,
+            321.0,
+            455.0
+        ],
+        "expanded_bbox": [
+            263,
+            399,
+            331,
+            465
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAE6UlEQVR4Ae3BSY4ERADEQPv/jy4ECMFsvXCrSUdIpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpknedUB+C8lbDn+RX0LyjsM/5FeQvO7wX/ILSF52+EjuJ3nV4TO5nuRFh6/kdpKXHL4jt5O84PA9uZ3kqcNP5HaSJw4PyOUkjxwek8tJfnZ4Ri4n+cHhBXI5ybcOL5HLSb46vEouJ/ns8Dq5nOSjw1vkbpKPDm+Ru0k+OrxHrib56PAeuZrkk8N75GaSTw7vkZtJPju8RW4m+eLwDrmZ5IvDO+Rmkq8Ob5CbSb53eJHcTPKTw0vkZpIfHV4hN5P87PACuZnkgcNTcjXJI4dn5GqShw5PyNUkjx0ek6tJnjg8JFeTPHF4SK4meeLwkFxN8szhEbma5JnDI3I1yTOHB+RukmcOD8jdJE8dfiZ3kzx1APnT4RO5nORdh3/J5STvO/xNrif5Xw7ILyCZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpn2B54zMgEt1QAwAAAAAElFTkSuQmCC",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            326.0,
+            34.0,
+            367.0,
+            95.0
+        ],
+        "expanded_bbox": [
+            316,
+            24,
+            377,
+            105
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAFLElEQVR4Ae3BUY4kRQIFQff7HzoWgRYN0JVfWVKMnptJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpknedfiT/B4kbzr8TX4HkvccfiW/AclrDv8k95O85vAvcj3JWw7/IbeTvOPwE7mc5BWHn8ndJC84fCJ3k7zg8IncTfKGwwdyN8kbDh/I3SRvOHwgd5O84fCB3E3yhsMHcjfJKw4/k7tJXnH4mdxN8o7Dz+RqknccPpCbSd5x+EQuJnnJ4SO5luQlhwdyKclbDk/kSpK3HB7JjSRvOTyTC0lec3gm95G85vBM7iN5zeGZ3EfynsMjuY/kPYdHch/Jew6P5D6S9xweyX0k7zk8kvtIXnR4IveRvOjwRO4jedPhgdxH8qbDA7mP5FWHB3IdybsOn8l1JO86PJDbSF52eCCXkbzs8ETuInnb4YHcRfK6w2dyF8n7Dh/JXSTvO3wil5F8weEDuYzkCw4/k9tIvuHwE7mO5BsOP5D7SL7i8B9yIcl3HP5FbiT5jsM/yZUkX3L4ldxJ8iWHX8ilJN9y+JvcSvIth/+Ta0m+5vAXuZfkaw5/kotJvufwB7mZ5HsOIFeTfM8B5GqSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJp/wO/kEAB5f9RjgAAAABJRU5ErkJggg==",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            299.0,
+            138.0,
+            341.0,
+            178.0
+        ],
+        "expanded_bbox": [
+            289,
+            128,
+            351,
+            188
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEyElEQVR4Ae3BS65gNQDFQHv/iw4DJCQ+Tee+WXRcJZkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJvmxw5/kXZIfOfydvEnyA4d/kxdJPjv8N3mP5KvDL8lrJN8c/pe8RfLJ4TfkKZIvDr8lL5F8cLggD5F8cLgh75DcO9yRZ0juHe7IMyT3DnfkGZJrh0vyDMm1wy15heTa4Za8QnLtcEteIbl1uCavkNw6XJNXSG4drskrJLcO1+QVkluHa/IKya3DNXmF5NbhmrxCcutwTV4huXW4Jq+QXDtckmdIrh0uyTMk1w6X5BmSe4cr8g7JvcMVeYfkg8MFeYjkg8MFeYjki8NvyUsknxx+Q54i+ebwv+Qtko8OvyavkXx1+BV5juS7w3+RB0l+4vAP8ibJDx3+Is+STJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0z7A9yZKwHf9FJ8AAAAAElFTkSuQmCC",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            189.0,
+            220.0,
+            231.0,
+            260.0
+        ],
+        "expanded_bbox": [
+            179,
+            210,
+            241,
+            270
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEyklEQVR4Ae3BMYIDxwHEQOD/jx4nViB7ydt02KiSTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNfcvgvyTvyKw7/S/In+Q2HR5Lv5BccPpJ8Iz/g8IXkC7nf4SvJZ3K9wx8kH8ntDn+SfCKXO7wg+UDudnhD8oHc7fCK5Jlc7fCO5Jlc7fCO5Jlc7fCS5JFc7fCS5JHc7PCW5JHc7PCW5JHc7PCW5JHc7PCa5Inc7PCa5Inc7PCa5Inc7PCa5Inc7PCW5JHc7PCW5JHc7PCW5JHc7PCW5JHc7PCW5JFc7fCO5Jlc7fCO5Jlc7fCO5Jnc7fCG5AO52+ENyQdyu8OfJJ/I9Q5/kHwkP+DwjeQz+QGHLyRfyE84fCD5Sn7D4YnkD/IjDv9H8if5GYd/k/xNfsnhH5JXJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0/4Dz9srAfjc9zoAAAAASUVORK5CYII=",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            187.0,
+            70.0,
+            229.0,
+            110.0
+        ],
+        "expanded_bbox": [
+            177,
+            60,
+            239,
+            120
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEyElEQVR4Ae3BQQ4rRQDFQPv+h242SAj4k8y281wlmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSa/4/A3yVvyIw7/JnlDfsLh/yTfyQ84PJB8Ifc7PJJ8Jtc7fCL5RG53+EzygVzu8I3kmdzt8J3kkVzt8IbkiVzt8Irkgdzs8I7kgdzs8I7kgVzs8JLkgVzs8JLkgdzr8Jbkgdzr8Jbkgdzr8Jbkgdzr8Jbkgdzr8Jbkgdzr8Jbkgdzr8Jbkgdzr8Jbkgdzr8Jrkz+Reh9ckfyb3Orwm+TO51+EtyQO51+EtyQO51+ElyRO52OEdyRO52OEVySO52eEFyTO52eE7yQdytcM3kk/kbofPJB/J7Q7PJF/I9Q4PJF/JDzj8geQF+QmH/5C8Ij/i8A/JW/IrDn+TvCeZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpn2F/40KwGLbQTQAAAAAElFTkSuQmCC",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            417.0,
+            298.0,
+            511.0,
+            397.0
+        ],
+        "expanded_bbox": [
+            407,
+            288,
+            512,
+            407
+        ],
+        "mask": "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",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            238.0,
+            73.0,
+            279.0,
+            112.0
+        ],
+        "expanded_bbox": [
+            228,
+            63,
+            289,
+            122
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAElUlEQVR4Ae3BQW4UQBTFQPv+h/4skBAKJNN7vyqZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNMk6/pAsiTq+kCRJOv4lRVJ0/I8ESdDxDcmRnuMH0iI5x48kRXKODyREao6PpENijs+kQ2KOB5IhMccDyZCW44VkSMvxRCqk5XgjEdJyvJEIaTkeSYO0HI+kQVKOV9IgKccraZCW45E0SMvxSBqk5XgkDdJyvJEIaTneSIS0HG8kQlqOJ1IhLccTqZCY44FkSMzxQDKk5vhIOiTn+EQ6pOf4mYRI0PETKZGi43uSIknHd6RFoo7/kRrJOr6SHgk7/iZFknb8JlUyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmm/AHbbKgHMw8qoAAAAAElFTkSuQmCC",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            235.0,
+            155.0,
+            272.0,
+            196.0
+        ],
+        "expanded_bbox": [
+            225,
+            145,
+            282,
+            206
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEm0lEQVR4Ae3BQY4UARDEQPv/jy6ExIEVzHTfnREyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpEnX8IWkSdPwkXdJz/EOqJOf4D4mSmOMDSZKW4yMpkpbjMwmSlOMb6ZGS4yvpkZLjO8mRkuOB1EjI8URqJOR4JDEScjySGOk4XpAW6ThekBbpOF6QFuk4XpAW6ThekBbpON6QFOk43pAU6TjekBTpON6QFOk4XpAW6ThekBbpOF6QFuk4nkmMhByPJEZCjkcSIyHHE6mRkOOJ1EjJ8Z3kSMnxneRIyvGN9EjK8YUEScvxkRRJzPGBJEnN8T8SJTnHPyRLeo6fJEyCjr9ImkQdv0mdTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkzaL7EYLAH2t5QYAAAAAElFTkSuQmCC",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            254.0,
+            111.0,
+            292.0,
+            152.0
+        ],
+        "expanded_bbox": [
+            244,
+            101,
+            302,
+            162
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEsUlEQVR4Ae3BUY4VRwAEwcz7H7oNwjZC7L6Z786KkEmTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk/nTQUJk/nP4n1TI/HL4gzTI/HD4iyTIcPiKFMgcviYBknf4jtxP8g7fkutJ3eEDuZ3UHT6Ry0nd4SO5m9QdPpOrSd3hgdxM4g5P5GYSd3gkF5O4wyO5mMQdnsm9pO3wgtxL2g4vyL0k7fCG3EvSDm/IvSTt8IpcS9IOr8i1JO3wilxL0g6vyLWk7fCGXEvaDm/ItaTt8IZcS+IOL8i1JO7wTO4lcYdnci+pOzySe0ne4YFcTPIOD+RiMoeP5GYyh0/kajIcvid3k4HDd+RyMj8dviLXk/np8BcpkPnX4TepkPntgLTIpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmk/QNs+SwBErx2bAAAAABJRU5ErkJggg==",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            260.0,
+            266.0,
+            298.0,
+            306.0
+        ],
+        "expanded_bbox": [
+            250,
+            256,
+            308,
+            316
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEt0lEQVR4Ae3BSUIdSQDFQOn+h87GI7Yb+LXOpwjJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yccOMkDyr8M7uZzkL4d/yc0kfzh8QC4m+e3wCbmW5JfDp+RWkp8On5NbSX44fEUuJfnu8DW5k+SbwwtyJ8mbw0tyJcmbw0tyJQkcHpAbSeDwgNxIwuEJuZGEwyNyIQmHR+RCEg6PyIUkHB6RC0k4PCIXknB4RC4k4fCIXEjC4RG5kITDI3IhCYdH5EISDk/IjSRweEBuJIHDA3IjyZvDa3IjyZvDS3IlyTeHV+RKku8OX5M7SX44fEnuJPnp8AW5lOSXw6fkVpLfDp+Qa0neHT4k95L84fABuZjkb4d/yM0k/3N4J3eTfOyA3E8yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0y7T8QYSsBRuw9OwAAAABJRU5ErkJggg==",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            297.0,
+            231.0,
+            336.0,
+            268.0
+        ],
+        "expanded_bbox": [
+            287,
+            221,
+            346,
+            278
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEuElEQVR4Ae3BsZEkNgDEQCD/oClX0v/dck3WoFsyTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk3ytcN/yMMkXzr8SV4l+crh7+RNkm8cfiQvknzh8At5kOTe4VfyHsm1wwfyHMm1wyfyGsmtw2fyGMmtw2fyGMmlwwV5jOTS4Ya8RXLpcEPeIrl0uCFvkVw6XJGnSO4c7shTJHcOd+QpkjuHO/IUyZ3DHXmK5M7hjjxFcudwR54iuXS4Ik+RXDrckLdILh1uyFsklw435C2SS4cb8hbJrcNn8hjJrcNn8hjJtcMn8hrJtcMH8hzJvcOv5D2Se4ffyIMkXzj8TF4k+cbhJ/IkyXcOfyVvknzp8Cd5leRbh/+Rd0m+d/gXeZlkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZNo/BIooAQvBS8QAAAAASUVORK5CYII=",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            260.0,
+            197.0,
+            298.0,
+            234.0
+        ],
+        "expanded_bbox": [
+            250,
+            187,
+            308,
+            244
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEsUlEQVR4Ae3BSWIVSQDFQOn+h06MmZrG9q91PkVIpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmST5w+E2uJvm/w9/kYpK/HD4g15L8cfiE3Ery2+FTcinJL4cvyJ0kPx2+JFeS/HD4mlxJ8u7witxI8t3hJbmR5LvDa3IhyZvDA3IhCRyekAtJ4PCEXEgChyfkQhIOj8iFJBwekQtJODwiF5JweEQuJOHwiFxIwuERuZCEwyNyIQkcnpALSeDwhFxIAocn5EKSN4fX5EaSN4fX5EaSN4fX5EaS7w6vyJUk7w5fkztJ3h2+JneS/HD4ilxK8tPhc3IryU+Hz8i9JL8cPiYXk/xx+JdcTfJfh7/J5ST/OLyTAZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJp3wD5sSgBDUf37gAAAABJRU5ErkJggg==",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            214.0,
+            251.0,
+            251.0,
+            292.0
+        ],
+        "expanded_bbox": [
+            204,
+            241,
+            261,
+            302
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEtElEQVR4Ae3BWUIUQADFwOT+h24RXECBme9+qZJMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTDYdXko9kweEPyXsy4PCe5C+53+EjyR9yvcN/JL/I5Q6fkbyRux0+JXkjNzt8RfJKLnb4muQnudbhW5IXcqvD9yQv5FKHRyQgdzo8JAG50+ExCXKnw2MS5E6HxyTIlQ7PkMiVDs+QyJUOz5DIlQ7PkMiVDs+QyJUOz5DIlQ7PkMiVDs+QyJUOz5DInQ5PkMidDo9JkDsdHpMglzo8IgG51eEBCci1Dt+TgFzr8C3JC7nX4TuSF3Kxw9ckP8nFDl+SvJKbHb4geSN3O3xG8ovc7vAfyW9yvcMHkndkwOEvyXuy4fBG8oEMOZJ/SKZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmm/QAZECwB1wcZrgAAAABJRU5ErkJggg==",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            216.0,
+            103.0,
+            255.0,
+            141.0
+        ],
+        "expanded_bbox": [
+            206,
+            93,
+            265,
+            151
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEr0lEQVR4Ae3BUUJlRQDFwGT/i24VkWFG4N3vzqmSSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZOKwxuZz6Th8EHmFyk4fCLzi9zv8DuZD3K9w59k/iOXO3xB5p3c7fA1mTdytcN3ZP4hNzv8RAa52OEFyZN7HV6TOLnX4QFpk2sdnpA2udbhCWmTWx0ekTa51eERaZNbHR6RNrnU4Rlpk0sdnpE2udThGWmTSx2ekTa51OEZaZNbHR6RNrnV4QmJk1sdnpA4udXhCYmTax1ekzq51uElyZNrHV6SPLnX4QUZudjhRzLIzQ4/kAG52uF7MiB3O3xH5m9yu8NXZN7I9Q7/J/Mvud/hTzLvpODwmcwHSTi8k/mNTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTNpfxUIpAfDemEsAAAAASUVORK5CYII=",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            203.0,
+            184.0,
+            240.0,
+            223.0
+        ],
+        "expanded_bbox": [
+            193,
+            174,
+            250,
+            233
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEwUlEQVR4Ae3BQVJDRwDFQOn+h55kkap8gwGv56lbMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0udviP5Adyp8MryVtypcM3kjfkQoe3JN/IdQ4/kXwltzn8TPKFXObwG8krucvhV5JXcpXDHyQv5CaHP0me5CaHP0me5CKHv0me5CKHD0ge5B6HT0ge5B6HT0ge5B6HT0ge5B6HT0ge5B6HT0ge5B6HT0ge5B6HT0ge5B6HT0ge5B6HT0ge5B6HT0ge5B6HT0ge5B6HT0ge5B6HT0ge5CKHv0me5CKHv0me5CqHP0heyF0Ov5O8kNscfiF5Jfc5/ETyhVzo8J7kK7nS4Q3JN3Klw3eS7+RWh1eSN+Rih/9J3pGrHf4jeUsud/iX5AdyvYPkJ5JpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaf8AUkoqAUhWNfIAAAAASUVORK5CYII=",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            255.0,
+            305.0,
+            293.0,
+            343.0
+        ],
+        "expanded_bbox": [
+            245,
+            295,
+            303,
+            353
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEs0lEQVR4Ae3BS1IcSADFQOn+hy7DYEwwfLrX9ZQpmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJvlweCFLJB8Ob2SG5MPhM7me5MPhf+R2kn8OX8jlJP8cvpK7Sd4dviNXk7w7fEeuJvnr8D25meSvww/kYpI3hx/JvST/OfxCriV5dfiNXEvy4vA7uZUEDg/IrSQcHpFbybzDY3IrWXd4gtxKxh2eIbeSbYenyK1k2+EpcivZdniK3ErGHZ4ht5Jxh2fIrWTc4RlyK1l3eILcStYdniC3knmHh+RaMu/wkFxLcnhEriU5PCD3knD4lVxMAoffyMUkLw4/k5tJXh1+IleTvDl8S+4meXf4Qm4n+XD4RO4n+ezwSkZIpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSab9ASHyKQF5a0xuAAAAAElFTkSuQmCC",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            108.0,
+            79.0,
+            186.0,
+            98.0
+        ],
+        "expanded_bbox": [
+            98,
+            69,
+            196,
+            108
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEhklEQVR4Ae3BUW7VUADFQHv/i74gKkBFfNAm5Kk6npFMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMkxc7fCd5EXmVw3uSF5CXOHyA5L+R5x0+R3I7edrhIsl95FmH+0gukycd7iS5TB50uJXkMnnQ4VaSy+RBh1tJLpMHHW4luUwedLiV5DJ50OFWksvkSYc7SS6TRx0+Qd4c3pFcJw87fID84fCb5Dp53uGfyF8cfpFcJ69y+EE+5vCT5Dr5cg5vJNfJF3UkN5BMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0z7BlVaGgEsgcFlAAAAAElFTkSuQmCC",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            197.0,
+            134.0,
+            235.0,
+            170.0
+        ],
+        "expanded_bbox": [
+            187,
+            124,
+            245,
+            180
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEt0lEQVR4Ae3BSY4ERwLEQPL/j44ZQDoIXVnLOZxmkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaXKnw/9JvpELHf4l+UJuc/gvyUdyl8Mfkk/kJodXkg/kIodHkrfkHoc3JO/INQ5vSd6QSxw+kTyTSxw+kjySOxw+kzySOxy+kDyRKxy+kTyRKxy+kjyQKxy+kjyQKxy+k7ySKxx+IHkhVzj8QPJCbnD4heSF3ODwE8lfcoPDTyR/yQ0OP5H8JTc4/ELyQm5w+IXkhdzg8AvJC7nB4QeSV3KDww8kr+QGh+8kD+QGh68kT+QKhy8kj+QOh48kz+Qah7ckb8g9Dm9I3pGLHJ5I3pOrHP6SfCKXOfyX5DO50OEfkm8k0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTT/gcm6ycB/cfzXQAAAABJRU5ErkJggg==",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            93.0,
+            0.0,
+            113.0,
+            93.0
+        ],
+        "expanded_bbox": [
+            83,
+            0,
+            123,
+            103
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAFlklEQVR4Ae3BwY3kSADEQNJ/o+twj9aOAxIKSEbIJw7/SO4hnzj8I7mHfOLwj+Qe8onDP5J7yCcO/0juIZ84PCQXkU8cHpKLyCcOD8lF5BOHh+Qi8onDQ3IR+cThIbmIfOLwkFxEPnH4kdxEPnH4kdxEvnB4SG4iXzg8JDeRLxwekpvIFw4PyU3kC4eH5CbyhcNDchP5wuFHchX5wuFHchX5wuFHchX5wuFHchX5wOEhuYp84PCQXEU+cHhIriIfODwkV5EPHB6Sq8gHDg/JVeQDh4fkKvKBw4/kLvKBw4/kLvKBw4/kLvKBw4/kLvKBw4/kLvK+w0NyF3nf4SG5i7zv8JDcRd53eEjuIu87/EguI+87/EguI+87/EguI+87/EguI+87/EguI687PCSXkdcdHpLLyOsOD8ll5HWHh+Qy8rrDQ3IZed3hIbmMvO7wkFxGXnd4SC4jrzs8JJeRtx0ektvI2w4PyW3kbYeH5DbytsNDcht52+EhuY287fCQ3EbednhIbiNvOzwkt5G3HR6S28jbDg/JbeRlh38kt5GXHf6R3EZednhIriMvOzwk15GXHR6S68jLDg/JdeRlh4fkOvKyw0NyHXnZ4SG5jrzs8JBcR152eEiuIy87PCTXkXcd/pFcR951+EdyHXnX4R/JdeRVhz8k15FXHf6QXEdedfhDch151eEPyXXkTYe/JNeRNx3+klxH3nT4S3IdedPhL8l15E2HvyTXkTcd/pJcR950+EtyHXnT4S/JdeRNhz8k95FXHf6R3Efed/if5EKSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaf8B0yJgAZj+/UMAAAAASUVORK5CYII=",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            0.0,
+            0.0,
+            28.0,
+            59.0
+        ],
+        "expanded_bbox": [
+            0,
+            0,
+            38,
+            69
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEpklEQVR4Ae3BiWEjBxDEQCD/oMff6UTbpALYRpXHG5IRHu9INni8I9ng8ZZkgsdbkgke70kWeLwnWeDxnmSBxweSAR4fSAZ4fCJ5Po+PJI/n8Znk6Tw+kzydxw8kD+fxA8nDefxA8nAeP5A8nMcPJA/n8QPJw3n8QPJwHp9Jns7jM8nTeXwkeTyPDyQDPN6STPB4QzLC4/8kKzz+QzLE418kUzxeSbZ4vJCM8XghGePxQjLG44VkjMcLyRiPb5I1Ht8kazxeSMZ4vJCM8XghGePxQjLG45tkjcc3yRqPb5I1Hr9J5nj8Jpnj8UWyx+OLZI/HF8kej18kgzx+kQzy+IdkkcffJJM8/iLZ5PEnySgPkKzyAMkqD8kuD8kuyTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJtD8AXVY+AfsfBFIAAAAASUVORK5CYII=",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            333.0,
+            225.0,
+            367.0,
+            263.0
+        ],
+        "expanded_bbox": [
+            323,
+            215,
+            377,
+            273
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAExElEQVR4Ae3BO65YNwDFQHL/i1aKNPn4XTcyIOBwRjJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTfJnHP4mT5P8AYd/kIdJrjv8hzxLctvh/+RRkrsOvyRvklx1+IE8SXLT4UfyIslFhw/yIMlFhy/yHsk9h2/yHMk9h2/yHMk9h9+Q10juOfyGvEZy0eE35DGSmw7f5DGSmw7f5DGSmw7f5DGSqw7f5C2Sqw7f5C2Sqw7f5C2Suw6f5C2Suw5f5DGSuw5f5DGSuw5f5DGSuw5f5DGSuw5f5DGSuw4f5DWSuw4f5DWSuw4f5DWSuw4/k+dI7jr8SN4juevwI3mP5LLDD+RBkssOvyYvktx2+BV5kuS+w3/JoyR/wOHf5FWSP+HwD/IuyR9y+Ju8TDJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMu0vUPcpATRdNGYAAAAASUVORK5CYII=",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            321.0,
+            179.0,
+            359.0,
+            215.0
+        ],
+        "expanded_bbox": [
+            311,
+            169,
+            369,
+            225
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAExElEQVR4Ae3BQW5cRwDFQPL+h+4giwC2o5EGmL9o47FKMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTfK8w7/kLyB51uEXcjvJgw5/krtJHnP4glxN8pTDl+RmkmccXpGLSR5xeE3uJXnC4TtyLckDDt+TW0k+d/iB3EryscOP5FKSjx1+JJeSfOrwM7mU5EOHd8idJB86vEPuJPnQ4R1yJ8lnDm+RO0k+c3iL3EnymcNb5E6SDx3eIXeSfOrwBrmT5HOHH8mdJE84fE8uJXnE4VtyKckzDt+RS0kecnhNbiV5yuEluZXkMYcX5FqSxxxekGtJnnP4ktxL8pzDl+RekgcdviAXkzzo8D9yNcmTDn+Qu0medPiN3E7ypMOv5HqSZx3+I38ByTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJtH8Abn4nAYb6J2YAAAAASUVORK5CYII=",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            63.0,
+            407.0,
+            103.0,
+            455.0
+        ],
+        "expanded_bbox": [
+            53,
+            397,
+            113,
+            465
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAE+klEQVR4Ae3BUW5kxwEEwcz7H7oNG4KsXZHcj3kD9KAyQjJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk1edCQfTF5zAMnHktcc/iL5RPKawz9IPo285vALyWeR1xx+Jfko8prDbySfRF5z+J3kg8iLDr+TfA550eFfJB9DXnT4guRDyKsOX5B8BnnV4UuSTyAvO3xNcj952eE7ktvJyw7fk9xNXnf4ieRi8oDDzyS3kgcc/kRyJ3nC4U8kV5InHP5IciN5xOEPJFeSRxz+QHIlecbhZ5IryTMOP5NcSR5y+JHkSvKUw08kV5KnHH4guZM85vA9yZ3kOYdvSe4kDzp8R3InedDhO5I7yZMOX5NcSh51+JLkUvKsw1ckl5JnHb4iuZQ87PAFyaXkaYd/k1xKHnf4neRW8gaHX0luJe9w+IXkVvIWh3+S3Ere5PB/klvJuxz+JrmVvM3hL5JryRsd/kdyLXmnw39JriXvdUByL3mzg+RekmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaf8BN9EzAdOifmEAAAAASUVORK5CYII=",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            447.0,
+            252.0,
+            476.0,
+            294.0
+        ],
+        "expanded_bbox": [
+            437,
+            242,
+            486,
+            304
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAE2ElEQVR4Ae3BUY4kxwHFQPL+h04bBgxb0nRX7WfOY4RkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJrklzj8h/wRyW9w+B/5A5L7Hf5C3pNc7/A38prkdod/kLcklzv8QF6SXO7wE3lHcrfDz+QVyd0OP5NXJFc7fCJvSK52+ETekFzt8JG8ILnZ4TN5QXKzw2fyguRmhy/kmeRmhy/kmeRmhy/kmeRmh2/kkeRmh2/kkeRmh2/kkeRmh2/kkeRmh2/kkeRmh2/kkeRqhy/kkeRqhy/kkeRqhy/kkeRqhy/kkeRuh8/kkeRuh8/kkeRuh8/kkeRyh0/kmeRyh0/kmeR2hw/kmeR6hx/JC5LrHX4kL0jud/iBvCG53+Gf5BXJL3D4B3lF8gsc/k7ekfwGh7+SlyS/wuH/yGuSX+LwX/Ke5Nc4/Jv8Eck0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMm0fwFDDS0BMwCEugAAAABJRU5ErkJggg==",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            317.0,
+            463.0,
+            348.0,
+            504.0
+        ],
+        "expanded_bbox": [
+            307,
+            453,
+            358,
+            512
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAE1klEQVR4Ae3BMY7cVgAFwe77H/o7MQxLWk4gTkDidZVkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmuSrDsiLSL7n8C95C8nXHP4jLyH5lsP/yStIvuTwK3kDyXccfiNvIPmOw+/kBSRfcfiTPJ/kKw5/kueTfMPhB/J8ki84/ESeT/IFhx/J40m+4PAjeTzJfYefyeNJbjtckMeT3HS4JI8nuedwTR5PcsvhA3k8yS2Ha/J8kjsOH8jzSe44fCDPJ7nh8IG8gOSGwwfyApIbDh/IC0huOFyTN5DccLgmbyC54XBN3kByw+GavIHkhsM1eQPJDYdr8gaSGw7X5A0kf+/wgbyB5O8dPpA3kNxwuCZvILnhcE3eQPL3Dh/IG0huOFyTN5DccLgkryC54XBF3kFyx+Fn8hKSWw4/kNeQ3HT4jbyIZJpkmmSaZJpkmmSaZNo/awEsAY1xBEIAAAAASUVORK5CYII=",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            63.0,
+            407.0,
+            102.0,
+            505.0
+        ],
+        "expanded_bbox": [
+            53,
+            397,
+            112,
+            512
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAFAUlEQVR4Ae3BW24k1wEFwcz9L/r6AQnW0E3yo6qBapyMkEyTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJOLjuSDyTWHf5N8Krnm8BfJJ5JrDv8g+TRyzeEPks8i1xz+JPkocs3hC8knkYsOX0g+iFx0+EryOeSiw/+RfAy56PCC5EPIVYcXJJ9Brjq8JPkEctnhNcnzyWWH70ieTq47fEvybHLd4SeSB5MbHH4meSq5weE3kmeSOxx+I3kkucPhN5JHklscfiF5JLnF4ReSR5J7HH4meSS5x+FnkkeSmxx+JHkkucvhB5Jnktscvid5JrnN4XuSZ5L7HL4leSa50eE7kmeSGx2+I3kmudPhNclDya0OL0keSu51eEXyUHKvwyuSh5KbHV6QPJTc7vCV5KnkfocvJE8lb3D4k+Sp5B0Of5A8lbzF4Z8kTyVvcvgfyVPJuxz+JnkseZvDXySPJW90+C/JY8k7Hf5D8ljyXgckzyVvdpA8l2SaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmrzJkXwAeZMj+QCSaZJpkmmSaZJpkmn/ApGKNQHRxaFeAAAAAElFTkSuQmCC",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            231.0,
+            212.0,
+            264.0,
+            249.0
+        ],
+        "expanded_bbox": [
+            221,
+            202,
+            274,
+            259
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEjUlEQVR4Ae3BwW0cARDEQDL/oMcfGzCku90A2FUyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpknP8IyMxx/+kTlqOH6RNSo7fJE1Cjk+kTEKOjyRMOo7PJEwyjm+kSyqOr6RLKo7vJEsijgeSJRHHA8mShuORVEnD8UyipOF4JlHScLyQJmk4XkiTNBxvJEkajjeSJA3HG0mShuONJEnE8UKSJOJ4IUkScbyQJIk4XkiSRBzPpEkijmfSJBXHE4mSiuOBVEnF8Z1kScbxjXRJxvGFhEnH8ZGUScjxgaRJyfGLtEnK8YPESczxH8mTnOMvGWTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTS/gAF0CgBO8/EzgAAAABJRU5ErkJggg==",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            482.0,
+            0.0,
+            511.0,
+            39.0
+        ],
+        "expanded_bbox": [
+            472,
+            0,
+            512,
+            49
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEe0lEQVR4Ae3BgYkcOAAEwe78g9YfBoO531UAmq6SjDj8Ij8kGw6/yQ/JhMP/CUgWHD4QkAw4fCRIBhw+E8n7Dl9Jnnf4TvK8w3eS5x2+k7zucCF53eFC8rzDd5LnHb6TPO/wneR1hwvJ6w4XktcdLiSvO1xIXne4kDzucCN53OFG8rjDjeRxhxvJ4w43kscdbiSPO9xIHne4kTzucCN53OFG8rjDjeR1hwvJ8w7fSUYcPpEMOfwmWXP4h2TQ4S/JpsMfklWHH5JdByTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTT/gPzPinf4Se1twAAAABJRU5ErkJggg==",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            276.0,
+            84.0,
+            311.0,
+            120.0
+        ],
+        "expanded_bbox": [
+            266,
+            74,
+            321,
+            130
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEsElEQVR4Ae3BQQ4bRwDEQPL/jx5fEsCwVqv7NKsk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk7w7/kRtJ3hz+IveRfHf4l1xG8s3hgdxF8sXhkVxF8uzwhdxE8ujwlVxE8ujwndxD8ujwQq4heXR4IdeQPDq8kVtIHh3eyC0kTw7v5BKSJ4d3cgnJk8M7uYTkyeGdXELy4PCL3EHy4PCL3EHy6fCT3EHy6fCT3EHy6fCT3EHy4fCTXELy4fCTXELy6fCLXELy4PCDXELy4PBObiF5cHgnt5A8ObySW0geHV7INSTPDl/JPSRfHL6Qi0i+OTySm0i+OnySu0i+O/xLLiN5c/ibXEfy7vA/uZDklwNyK8k0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMm0P7HTJwGRjKYMAAAAAElFTkSuQmCC",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            235.0,
+            286.0,
+            268.0,
+            322.0
+        ],
+        "expanded_bbox": [
+            225,
+            276,
+            278,
+            332
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEi0lEQVR4Ae3Bwa0UARDFQDv/oJsDSOjD7kwAflUyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaRJ1/CZtknT8JWUSdPwgYdJz/CRhUnP8R7ok5vifdEnL8YlkScrxkWRJyfGZZEnJ8YVUScjxjVRJyPGVREnI8Z00ScfxRJKk43gkRdJxPJMg6TheSI90HG8kRzqON5IjHccbyZGO443kSMfxRnKk43ghPdJxvJAe6TieSZB0HM8kSDqOR1IkIccTKZKQ44EkScjxQJIk5PhOmqTk+EaiJOX4SLKk5fhAuqTm+JeESc7xk5RJ0vGHxMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpP0CTpInAWBgXIYAAAAASUVORK5CYII=",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            340.0,
+            143.0,
+            371.0,
+            179.0
+        ],
+        "expanded_bbox": [
+            330,
+            133,
+            381,
+            189
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEvklEQVR4Ae3BQYokRwAEQff/Pzr3IATa0XSduiAh3EwyTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJN8prDv+RWkpcc/iJXkrzi8JPcSPKGwy/kPpIXHH4l15F83+EDuY3k+w6fyGUk33f4SO4iecHhI7mK5AWHj+QqkhccPpObSF5w+ExuInnB4YFcRPKCwwO5iOQFhwdyEckLDk/kHpIXHJ7IPSQvODyRe0hecHgi95C84PBE7iF5weGJ3EPyfYdHcg/J9x2eyEUk33d4IheRfN/hiVxE8nWHR3IRydcdnshNJF93eCI3kXzf4TO5iuQFh0/kLpIXHD6Qy0jecPiV3EbyhsNv5DqSdxz+R+4jecnhB7mQ5DWH/5ArSV50+IfcSjJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMu0PQCQnAYgEF5YAAAAASUVORK5CYII=",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            134.0,
+            454.0,
+            168.0,
+            508.0
+        ],
+        "expanded_bbox": [
+            124,
+            444,
+            178,
+            512
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEs0lEQVR4Ae3BQa4cNAAFwe77H9psQAKSP7OyYul1lWSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSavOfwD8ll8prDf0hukscc/kdykbzl8CvJNfKUw+9IbpGXHH5Pcom85PADyR3ykMNPJHfIQw4/klwh7zj8THKFPOPwieQGecbhE8kN8orDZ5IL5BWHzyQXyCMOX0gukEccvpBcII84fCG5QB5x+EJygbzh8I3kAnnD4RvJBfKGwxeSG+QNhy8kN8gbDp9JrpA3HD6TXCFvOHwkuUPecPhIcoe84fCJ5BJ5w+EDyS3yhsPPJNfIGw4/ktwjbzj8RHKRPOIAHn4huUlec/g3yVXynsPfJLdJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmyROO5I+QTJNMk0z7C/QNJgFGY/BRAAAAAElFTkSuQmCC",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            171.0,
+            336.0,
+            197.0,
+            386.0
+        ],
+        "expanded_bbox": [
+            161,
+            326,
+            207,
+            396
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAE9ElEQVR4Ae3BS25kRwDEQPL+hy4bhgejT2vzWptCMkIyTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk3udCS/Qa50+EPyDrnS4S/Jc3KjwweS5+RGh48kj8mNDp9InpIbHT6RPCUXOnwmeUoudPhM8pRc6PCZ5Cm50OELyUNyocMXkofkQocvJA/JfQ7fSJ6R+xy+kTwj1zl8J3lGbnN4QfKMXObwiuQZucvhJckzcpXDa5Jn5CqH1yTPyE0OP5A8Izc5vCZ5SC5y+IHkIbnI4QeSh+Qihx9IHpKLHH4geUgucnhN8pTc4/ADyVNyj8MPJE/JPQ4/kDwl9zi8JnlM7nF4TfKYXOTwiuQ5ucjhFclzcpHDK5Ln5CKHFyRvkIscXpC8QW5y+EbyDrnJ4RvJO+Qqhy8kb5GrHD6TvEeucvhM8h65y+EjyZvkLocPJO+Syxz+krxLbnP4Q/I2uc3hf5L3yXUO/5H8ArnP4V+S3yAXOkh+h2SaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZNo/mz41AfirfnkAAAAASUVORK5CYII=",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            300.0,
+            198.0,
+            334.0,
+            229.0
+        ],
+        "expanded_bbox": [
+            290,
+            188,
+            344,
+            239
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEpklEQVR4Ae3BQW4kRwDEQPL/jy7DN2MtzXTvrZCMkEyTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk/ylw7/kbpK/cPgPuZjkrcOf5FqSlw4/kEtJ3jn8SO4keeXwC7mS5I3Dr+RGkhcOH8iFJC8cPpH7SJ47fCT3kTx3+EyuI3ns8IVcR/LY4Qu5juSxwzdyG8ljh2/kNpLHDt/IbSSPHb6R20geO3wll5E8dvhKLiN57PCVXEby2OEbuY3kucMXchvJc4cv5DaS5w6fyXUkLxw+kutIXjh8IveRvHH4QO4jeeXwK7mQ5JXDb+RGkpcOP5IrSd46/J9cSvLa4Q9yLck0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJtH8A7YQiASTWaBkAAAAASUVORK5CYII=",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            303.0,
+            258.0,
+            342.0,
+            291.0
+        ],
+        "expanded_bbox": [
+            293,
+            248,
+            352,
+            301
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEvElEQVR4Ae3BW3JcRQAFwar9L7oJHgFGyPJcMT8dpzIl0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk73SQq0je6AByE8n7HP4g95C8zeFPcg/J2xz+IteQvMnhH3ILyXscfiC3kLzD4d/kEpInDvKJwwdyCckTB5APDv8hl5A8cfid/ODwCbmE5InDa+QSkicOr5FLSJ44vEYuIXni8Bq5hOSJw2vkEpInDq+RS0ieOLxGLiF54vAauYTkicNL5BaSRw6vkFtIHjm8Qm4heeTwArmG5JnDr8k1JA8dfkXuIXnq8DW5iOSxw5fkIpLnDl+Qm0i+4fBTchXJdxx+Qu4i+Z7DJ+Q2ku86fCD3kXzf4W9yJ8n/ceRukmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmm/AUEPJwFJeRkkAAAAAElFTkSuQmCC",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            318.0,
+            112.0,
+            351.0,
+            145.0
+        ],
+        "expanded_bbox": [
+            308,
+            102,
+            361,
+            155
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEs0lEQVR4Ae3BMY5bSQDFQPL+h24DxgZr2CMFX0ELj1WSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZKPOfwmX0TyCYc/yLeQPHb4m3wHyVOHf5GvIHnm8BP5ApJHDj+SLyB55PAzuZ/kkcMLcj3JI4dX5HaSRw6vyO0kjxxekstJHjm8JJeTPHJ4SS4neeTwmtxN8sjhNbmb5JHDa3I3ySOH1+RukkcOr8ndJE8c3pC7SZ44vCF3kzxxeEPuJnng8I7cTfLE4Q25m+SJwxtyN8kTh9fkcpKHDi/I5SQfcPiBXE7yGYd/kNtJPuXwF7md5HMOf5LrST7p8D9yP8lnHf4j30DyYYff5CtIPu0A8iUk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNN+AQDvJAENy/isAAAAAElFTkSuQmCC",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            135.0,
+            454.0,
+            168.0,
+            486.0
+        ],
+        "expanded_bbox": [
+            125,
+            444,
+            178,
+            496
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEqklEQVR4Ae3BUaocRgDEQOn+h55ACMSJvfu+BgZaVZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJp8qDDPySXyXMOv5BcJY85/I/kInnL4XeSa+Qthz+Q3CJPOfyR5BJ5yeEDyR3yksMHkjvkIYePJFfIQw4fSa6Qdxy+kNwgzzh8I7lBnnH4SnKBvOLwneQCecXhO8kF8ojDDyQXyCMOP5BcII84/EBygTzi8APJBfKIw3eSG+QRh+8kN8gbDj+Q3CBvOHwnuULecPhOcoW84fCV5A55w+EbySXyiMNnklvkEYePJNfIIw6fSO6Rpxx+I7lIHnP4L8lN8pzDvyR3yYsOf5PcJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpn2FzHeIwHOGsd/AAAAAElFTkSuQmCC",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            243.0,
+            240.0,
+            282.0,
+            277.0
+        ],
+        "expanded_bbox": [
+            233,
+            230,
+            292,
+            287
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEjklEQVR4Ae3Bi01dARTEQLv/ok+ChAif8G4B3hmZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZN8cbyZH563gnMTJwfJAWGY5PJEXm+EJKJO/4RkKk7vhOQiTu+Ek6JO34H+mQsOMXkiFVx+8kQ4qO1yRDeo4nkiE9xyOpkKDjiVRI0fFEIiTpeCIN0nQ8kAaJOh5IgkQdT6RAqo4HUiBZxwMJkKzjNSmQrOM1KZCu4yUpkK7jBWmQruM3kiFhx/9IiYQdP0iMhB3fSI6EHV9Jj4QdX0iQhB2fSJKEHf9Ik4QdHyRKyo53UiVlxzupkrxDumTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0mTSZNJk0v4AvEIoAYl5aHUAAAAASUVORK5CYII=",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            339.0,
+            102.0,
+            511.0,
+            108.0
+        ],
+        "expanded_bbox": [
+            329,
+            92,
+            512,
+            118
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAESUlEQVR4Ae3BQUoEUQDFwOT+h/4qCLoQHKHbYXipkkyTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk1zu8Aj5cPiN3ElytcPzyYMkVzu8EMkNDq9CcovDZeTd4R6SJzl8kUcc/k4+HX4keabDO/lPh+8k0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk094AUF4N/C3kIPcAAAAASUVORK5CYII=",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            360.0,
+            115.0,
+            413.0,
+            134.0
+        ],
+        "expanded_bbox": [
+            350,
+            105,
+            423,
+            144
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEgUlEQVR4Ae3BC4pUQQAEwcz7H7pFUfAHOgOvd6EyQjJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJN8qkcvpMrJJ/E4TdygeRTOPxJnie56PCN/OLwd/I8yS2HV8njJJccXiaPk9xxeJ08TnLF4Q3yOMkVhzfI4yRXHN4gj5NccXiHPE1yxeEd8jTJHYfXyeMklxxeJo+T3HJ4kTxPcsvhFXKF5JrDf5NLJPccBA7/ItdIPsDhZ/LD4Su5R/IxDvIXB7lJMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0y7QvJQxoBUN+mDQAAAABJRU5ErkJggg==",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            287.0,
+            280.0,
+            319.0,
+            318.0
+        ],
+        "expanded_bbox": [
+            277,
+            270,
+            329,
+            328
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEw0lEQVR4Ae3BSRLcRgDEQOD/j26vckjyLLyShUzJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMlVB5CHkVx1+JM8i+Sqw1/kUSRXHf4mTyK56vAPeRDJVYd/yXNIrjr8II8huerwH3kKyVWHn8gzSK46/EweQXLV4VfyAJKrDr+R+5NcdPg/uTvJRYcX5OYkFx1ekJuTXHN4RW5Ocs3hFbk5ySWH1+TeJJccXpN7k1xxeEPuTXLB4R25N8kFh3fk3iTfHd6Se5N8dXhP7k3yxeETuTfJZ4dP5OYkHx0+kpuTfHL4TG5O8tHhE7k7yUeHT+TuJJ8d3pPbk3x2eEvuT/LF4Q15AMk3h5fkCSRfHf5PnkHy3eF38hCSCw6/kMeQXHL4QZ5EctlBnkYyTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0y7Q9pdikBvffdCQAAAABJRU5ErkJggg==",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            184.0,
+            253.0,
+            213.0,
+            284.0
+        ],
+        "expanded_bbox": [
+            174,
+            243,
+            223,
+            294
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEp0lEQVR4Ae3BW2olSQDFQGn/i86BeUA3bRflO1/JUYRkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmtzsAJL/QS52+JvkY3Kxwz8kn5J7Hf4j+ZBc6/ALyUfkWodfST4htzr8TvIBudXhD5KfklsdviT5CbnU4YnkHbnU4YnkHbnU4YnkHbnU4YnkHbnU4YnkHbnU4YnkHbnU4YnkHbnU4YnkHbnU4YnkHbnU4YnkHbnU4YnkHbnV4YHkHbnV4YHkHbnV4YHkHbnW4XuSd+Rah+9J3pF7Hb4leUfudfiO5CW52OFrkrfkZoevSF6Tqx3+IPkBudvhd5Ifkesd/iX5Mck0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0ybS/ANpUIgFRv6yHAAAAAElFTkSuQmCC",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            277.0,
+            225.0,
+            303.0,
+            264.0
+        ],
+        "expanded_bbox": [
+            267,
+            215,
+            313,
+            274
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEv0lEQVR4Ae3BUXIQRwDFQOn+h56kEijAuzb+nqduyTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTcd5D6S7zn8S24j+ZbDf+Qykm85/E/uIvmOww9yF8k3HH6Su0j+6vCL3EXyF4ffyV0kXzr8QS4j+dzhA7mN5BOHJ7mN5M3hjVxH8ubwQu4jeXF4I/eRvDi8kAtJXhxeyIUkT4cXciPJ0+GF3EjydHghN5I8HV7IjSRPhxdyI8nT4UmuJHk6PMmVJE+HJ7mS5OnwJFeSvDg8yJUkLw4PciXJi8OT3Ejy5vAgN5K8OTzIjSSvDh/JjSSvDh/JjSTvDh/JhSSfOHwgF5J85vCB3EfyucMf5D6SLxz+INeRfOXwO7mO5GuHX+Q6kr85/CD3kUyTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0z7B4DqKgG0voc3AAAAAElFTkSuQmCC",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            262.0,
+            141.0,
+            298.0,
+            169.0
+        ],
+        "expanded_bbox": [
+            252,
+            131,
+            308,
+            179
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEmElEQVR4Ae3BUUIUSADFwOT+h+4FVxF0hvG7X6ok0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMkLx2QS0leOoDcSfLK4Z1cSfLC4Qe5kuR7h5/kRpJvHX6RG0meO3wiN5I8dfhMbiR54vAHuZDkgcPf5EaSd4c38ubwhNxI8ubwD+RCkjeHfyAXkrw5vCY3krw7vCQ3krw7vCQ3kvxweEVuJPnf4QW5keSnw/fkRpIPh2/IlSQfDt+QK0l+OzwnV5J8cnhG7iT57PCYXEry2eEhuZXki8MDci3JV4e/yL0kfzp8JReTPHD4IFeTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0z7D7xYIAEbrN4uAAAAAElFTkSuQmCC",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            292.0,
+            113.0,
+            318.0,
+            143.0
+        ],
+        "expanded_bbox": [
+            282,
+            103,
+            328,
+            153
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEoUlEQVR4Ae3BUWrdUADFQGn/i76llEJLYux8+h3NSKZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkl+7ADyGSQ/dfhNPoLkhw5/yCeQ/MzhL/kAkp84/EPeT/Lc4X/yepKnDl/I20meOXxD3k7ywOGCvJzk3uGKvJzk1uGSvJzk1uGSvJzk1uGSvJzk1uGSvJzk1uGSvJzk1uGSvJzk3uGKvJzk3uGKvJzk3uGCvJ3k3uGCvJ3k3uGCvJ3k3uF78nqSe4fvyetJHjh8R95P8sDhK/kEkgcOX8hHkDxx+J98CMkjh3/Ix5A8c/hLPojkocMf8kkkjx1APotkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmTaLzITIQGi8y40AAAAAElFTkSuQmCC",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            309.0,
+            319.0,
+            335.0,
+            345.0
+        ],
+        "expanded_bbox": [
+            299,
+            309,
+            345,
+            355
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEjklEQVR4Ae3BQYoVQQAFwcz7H7oEEVFnevHbVfEyQjJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJN8trhF7mW5KXDn+ROkncO/5AbSV45fCEXkrxy+EruI3nj8B25juSFw/fkNpIXDg/kMpIXDg/kMpLPHR7JXSSfOzySu0g+d3gkd5F87vBI7iL53OGR3EXyucMjuYvkhcMTuYvkhcMDuYzkhcMDuYzkjcO35DaSVw7fkOtI3jl8IfeRvHP4Qu4jeenwN7mR5K3Dn+RKktcOv8mlJP/h8JNcS/JfDnIzyTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0ybQfbysdAS0TziEAAAAASUVORK5CYII=",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            265.0,
+            169.0,
+            290.0,
+            197.0
+        ],
+        "expanded_bbox": [
+            255,
+            159,
+            300,
+            207
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEi0lEQVR4Ae3BwWEbMQDEQKD/oplHHEcnqQIuZiTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJE8HZIfk6fBDFkieDk9yNcnT4Y3cTPJ0eCM3kzwd3snFJE+Hd3IxydPhnVxM8nR4JxeTPBw+yMUkD4cPcjHJw+GDXEzy6vBJLiZ5dfgkF5O8OnySi0leHL6Qi0leHL6Qi0n+O3whN5P8d/hCbib5dfhGbib55/CNXE3yz+EbuZrkx+EbuZvkx+EbuZvkr8NXcjfJX4dv5HKSH4dPcjvJr8MrWSB5OCBDJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0/4AKiQfAUR7UDYAAAAASUVORK5CYII=",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            291.0,
+            475.0,
+            314.0,
+            501.0
+        ],
+        "expanded_bbox": [
+            281,
+            465,
+            324,
+            511
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEiElEQVR4Ae3BMZIYNwDEQOD/j6YDBbZ1W8WLOeiWTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJP83uEPeYbklw7/kldIfuPwF3mD5BcOP8gTJHeHn+QJkrvDB3mB5OrwRV4guTp8kRdIrg6f5AGSq8MneYDk6vBJHiC5OnySB0iuDp/kAZKrwyd5gOTq8EkeILk6fJEXSK4OX+QFkpvDJ3mB5ObwRZ4guTl8kDdIbg4f5A2Sm8NP8gjJ1eFv8grJ1eH/5B2Su8N/yEskv3H4Qx4j+Z0D8h7JNMk0yTTJNMk0yTTJNMk0yTTJtH8ADsUdAcbeZ4YAAAAASUVORK5CYII=",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            3.0,
+            46.0,
+            34.0,
+            76.0
+        ],
+        "expanded_bbox": [
+            0,
+            36,
+            44,
+            86
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEj0lEQVR4Ae3BiUEjQQDEQCn/oOcAG8yzl8C2qiTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTT5LuDZIp8cwDJEnk5vJMMkS+HD5Ih8uXwINkhXw5Pkhny6fBJMkOeDi+SFfJ0eJGskIfDd5IR8uHwk2SDvDv8Jpkgbw5/SRYIHC5IFggcrkgGCByuSAYIHC5J7k/gcE1ye/LmcE1yd/LhcEVyd/JwuCK5OXk4XJLcmzwdrkjuTZ4OlyS3Jl8OVyR3Ji+HC5I7kx8Of0huTH47/CS5Mfnr8IPkvuTS4UVyX/I/Rzi8k9yWZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmTaP9CXIgGT4L3tAAAAAElFTkSuQmCC",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            464.0,
+            192.0,
+            496.0,
+            214.0
+        ],
+        "expanded_bbox": [
+            454,
+            182,
+            506,
+            224
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEeUlEQVR4Ae3ByREjRwDEQMB/o1uhhw5yOWNAFzIl0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMktzr8TV5J7nT4h7yQXOnwH3kmudHhf+SZ5EKHD/JIcp3DN3kiuc3hD/JEcpnDD/JAcpnDT/KT5C6HB/KL5CqHR/KD5CqHF/IHyVUOb+Sb5CqHV/JFcpXDO/kkucvhnXyQXObwSj5IbnN4IZ8k1zk8k0+SCx1+k2+SOx2+yC+SWx3+JU8kVzvIG8k0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJtL8AEMgZAW6IPIsAAAAASUVORK5CYII=",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            309.0,
+            0.0,
+            345.0,
+            20.0
+        ],
+        "expanded_bbox": [
+            299,
+            0,
+            355,
+            30
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEdklEQVR4Ae3BUW4QNgAFwd37H9pUCCFoS0L8Z72dkXzd4S/ICyRfd/gL8gLJ1x0+J0+QXDh8Sp4guXD4jLxBcuHwCXmE5MbhQ/IKyY3DR+QZkhuHD8g7JFcOfyIvkVw5/IE8RXLn8H/kMZI7h/+S50guHf5FHiS5dPiNPEly6fAreZPk1uEneZXk1uEHeZfk1uE7eZnk2uEf8jTJtQPyOMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0ybRvjCwXAauSdzQAAAAASUVORK5CYII=",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            130.0,
+            494.0,
+            160.0,
+            511.0
+        ],
+        "expanded_bbox": [
+            120,
+            484,
+            170,
+            512
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEaklEQVR4Ae3BwY0cMQDEQDL/oOWvYd/Ob1YHNKsk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTT5Bc4/E3yPfILHP4h+RK57/A/yVfIfYefSL5A7jv8TPI6ue/wgeRtct/hE8nL5L7DR5J3yX2HzySvkvsOn0leJdcdnkjeJNcdnkjeJNcdHkleJNcdHkleJNcdHkleJPcdnkheJPcdnkheJL/B4RPJq/4AtSUUAX3SxpsAAAAASUVORK5CYII=",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            479.0,
+            492.0,
+            511.0,
+            511.0
+        ],
+        "expanded_bbox": [
+            469,
+            482,
+            512,
+            512
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAER0lEQVR4Ae3BwW0cARDEQDL/oMeAPjZk3eq/zSrJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJsEMy6wDJpuOLZM7xl2TM8S/JkuMbyZDjO8mM43+SDcePJAuODyTvd3wkeb3jM8nLHU8kL3c8kbzb8UjyasczyZsdv5C82fELyasdzyTvdjz6A1ZMFe0o7PaVAAAAAElFTkSuQmCC",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            324.0,
+            339.0,
+            347.0,
+            360.0
+        ],
+        "expanded_bbox": [
+            314,
+            329,
+            357,
+            370
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEfklEQVR4Ae3BO47cQADFQPL+h24HtoH9KBsFEh6rJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJHc6/CPvILnN4St5A8ldDt/JC0hucvhBXkByi8Nv8nySOxwuyPNJbnC4Is8n+dzhkjyf5GOHa/J8ko8drsnzST52uCbPJ/nY4Zo8n+Rzh0vyfJIbHK7I80lucLgizye5w+E3eQHJLQ4/yRtI7nH4Qd5AcpPDN/IKkrscvpB3kNzm8J+8heQ+h7/kNSTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTT/gCQERgBIZS8dQAAAABJRU5ErkJggg==",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            73.0,
+            313.0,
+            94.0,
+            334.0
+        ],
+        "expanded_bbox": [
+            63,
+            303,
+            104,
+            344
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEeklEQVR4Ae3BMY4YOQDEQPL/j9bhEsP2TqhARrNKMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk2uOvwi+QfITYffSZ4nFx3+JHmd3HP4m+Rxcs3hB8nj5JbDB8nb5JbDB8nb5JbDB8nb5JbDB8nb5JbDF8nT5JbDF8nT5JbDF8nT5JbDF8nT5JbDB8nb5JbDB8nb5JrDT5K3yTWHHySPk3sOf5M8Tu45/EnyPLno8DvJ++Smwy+Sf4Hcdfif5B8hmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpn2H9mLGAGK6sr2AAAAAElFTkSuQmCC",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            75.0,
+            481.0,
+            93.0,
+            507.0
+        ],
+        "expanded_bbox": [
+            65,
+            471,
+            103,
+            512
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEjklEQVR4Ae3BUa4cRADEQPv+hx6iAMrb/R6kQe0qyTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTS57/A3yfPkssMPksfJVYcPksfJTYcvkrfJTYcvkrfJRYdvkrfJRYcvksfJRYcvksfJPYdvksfJPYdvksfJPYdvksfJPYdvksfJPYdvksfJPYdvksfJRYdPktfJRYdPktfJRYdPktfJRYdPktfJTYefJM+Tqw4/SJ4nVx1+kDxP7jr8IXme3HX4Q/I8uezwL8n75LbDPyTvk/sOv0neJ/+Bwy+S/wHJNMk0yTTJtL8AEY0dAS6nK5sAAAAASUVORK5CYII=",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            229.0,
+            69.0,
+            252.0,
+            102.0
+        ],
+        "expanded_bbox": [
+            219,
+            59,
+            262,
+            112
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEi0lEQVR4Ae3BiXEcMQDEQCD/oGmX7hHXDgHTLZMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJi2HF5kfUnK4ySAhhycZyTj8R/Kk4vAfGYk4/EPmL4k4PMj8kIbDg8yLNBxuMm+ScLjJfEjB4SbzJQWHi8wvKTj8krlIweGXzEUKDr9kLlJw+JK5ScHhS+YmBYcvmZsUHD5kHqTg8CHzIAWHD5kHKTh8yDxIweFD5kESDm8yD5JweJN5kITDm8yDJBzeZB6k4fAi8yANhxeZB2k4vMncJOLwInOTisMPmZtUHH7I3KTkyDzJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpMmkyaTJpP0BsjEkAZJ7pNAAAAAASUVORK5CYII=",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            291.0,
+            341.0,
+            309.0,
+            364.0
+        ],
+        "expanded_bbox": [
+            281,
+            331,
+            319,
+            374
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEfElEQVR4Ae3BQY4sNADFQPv+hw4ICfgzvUiv81wlmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJvnS4W/yGMk3Dv+Rl0juDn+Sh0iuDj/JOyRXh1/kGZKrw2/yCsnN4YO8QnJz+CCvkNwcPsgrJDeHD/IKyc3hg7xCcnP4IK+Q3Bw+yCskN4cP8grJzeGDvEJyc/hNniG5Ovwiz5BcHX6Sd0iuDj/JOyR3hz/JQyRfOPxPXiL5wuFf8hbJVw7/kMdIvnMAeY5kmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZNpfa/0aAUrJUB4AAAAASUVORK5CYII=",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            215.0,
+            160.0,
+            236.0,
+            186.0
+        ],
+        "expanded_bbox": [
+            205,
+            150,
+            246,
+            196
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEfklEQVR4Ae3BgY0YNwDEQLL/ohUbHxjxKRVoOSOZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJjsOkg+ZcUDyISsOIPmQEYdfJB+y4fCb5EMmHH6TfMmAww/Jl7zv8C/Jl7zu8IfkSx53+ENykacd/kNykYcd/iK5yLsOf5Nc5FmHD8lFnnX4kFzkVYcvyUVedfiSXORRh4vkIo86XCQXedThIrnIow4XyUXedLhJLvKmw01ykTcd/ofkSx51APlx+CH5kg2HXyRfMuMg+ZJMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNM+wcbNh4Bxkm5KQAAAABJRU5ErkJggg==",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            199.0,
+            111.0,
+            216.0,
+            136.0
+        ],
+        "expanded_bbox": [
+            189,
+            101,
+            226,
+            146
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEgUlEQVR4Ae3BsWEgNwDEQKD/omknZ/0rolMuZiTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0+QxByTX5BWHj+SavOLwkVyTVxw+kmvyisNHck1ecfhIrskrDh/JNXnF4SO5Jq84fCTX5BWHj+SavOLwH8ktecThh+SWPOLwQ3JLHnH4Ibkljzj8QXJJHnH4g+SSPOLwJ8kdecThL5Ir8ojD3yQ35BGHXyQX5BGHXyQX5A2H3yQX5A2HXyQ35BGHH5Jb8ojDR3JPnnH4l+R/kUyTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNM+wfYVBwBboLVXgAAAABJRU5ErkJggg==",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            111.0,
+            32.0,
+            130.0,
+            58.0
+        ],
+        "expanded_bbox": [
+            101,
+            22,
+            140,
+            68
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEiklEQVR4Ae3BgW0jSQDEQDL/oOceeEuWEtgx0KySTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0sOkvvkcQc5/EdynTzt8ENynzzs8CK5Tx52eJHcJw87/JD8AfKwww/JHyDPOrxI/gB51uFNcp886/AmuU+edfgluU6edfgguU2edfgkuUyedfgkuUyedfgiuUuedfgmuUoedvgiuUqedvgiuUmed/gguUluOPySXCRXHN4kF8kVh1+Se+SOw5vkHrnk8Ca5Rm45vEiukVsOL5Jr5J7D/yTXSKZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmm/QO5oB4BXdJdiQAAAABJRU5ErkJggg==",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            473.0,
+            111.0,
+            497.0,
+            127.0
+        ],
+        "expanded_bbox": [
+            463,
+            101,
+            507,
+            137
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEYElEQVR4Ae3BgWljQQDFQKn/ovfgAsHfdhrYpxnJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJ9Q7/yReSux1+ySfJ1Q4v5IPkZocHeSe52eFJ3kgudngnT5J7HT7Jg+Rahy/kQXKrw1fySnKpw3fySnKnwx/kleROhz/IK8mdDt/Jg+ROBzx8kCfJ5Q4v5I3keocf8klyvwPynWSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpk2j9qkRQB82ZiZAAAAABJRU5ErkJggg==",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            281.0,
+            8.0,
+            300.0,
+            27.0
+        ],
+        "expanded_bbox": [
+            271,
+            0,
+            310,
+            37
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEbklEQVR4Ae3BUW5UQQDEQPv+hx5ACMiLshu+p10lmSaZJpkmmSaZJpkmmSaZJvkfB7mS5HuHn+RGku8cfpMLSd47/CEXkrx1+EfuI3nn8IHcR/LO4QO5j+SNw0dyH8lrhye5juSlw5PcR/LS4UnuI3nl8CQXkrxw+EQuJHnh8CQ3knzt8IncSPK1w5NcSfK1w5NcSfK1w4PcSfLS4S+5lOStwy9yK8k0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMm0HwSwFgEm75b+AAAAAElFTkSuQmCC",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            297.0,
+            498.0,
+            320.0,
+            511.0
+        ],
+        "expanded_bbox": [
+            287,
+            488,
+            330,
+            512
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEV0lEQVR4Ae3BsZEcMQDEQCD/oClDhlT/a+yZvEG3ZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSa5HMH5DtIPnT4S76B5COHf+R+kg8c/if3k7x2+EGuJ3nr8IvcTvLS4YFcTvLS4YFcTvLS4YncTfLO4ZHcTfLO4ZlcTfLO4ZlcTfLO4ZlcTfLO4ZHc7Q891xABMAoJZgAAAABJRU5ErkJggg==",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            134.0,
+            0.0,
+            152.0,
+            17.0
+        ],
+        "expanded_bbox": [
+            124,
+            0,
+            162,
+            27
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEZUlEQVR4Ae3BQaoUMAAFwe77HzoiDsof9yHwukoecfhBcoU84vCT5AZ5w+Gb5AJ5w+Gb5AJ5w+Gb5AJ5wuE/kgvkCYdvkhvkCYcfJJfIGw7/SK6RNxz+kVwjjzj8JblGXnH4kNwjrzh8SO6RVxw+JPfIKw4fknvkFYc/JBfJMw6/SW6SZxxAcpdkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmTaLy1qFAEfa1xfAAAAAElFTkSuQmCC",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            140.0,
+            431.0,
+            157.0,
+            445.0
+        ],
+        "expanded_bbox": [
+            130,
+            421,
+            167,
+            455
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEXElEQVR4Ae3BQWokQQDEQOn/j65lD8bTvvdQkIqQTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk7scPkleJlc5PEneJVc5PEneJTc5/CF5l9zk8IfkXXKTw5PkZXKTw4PkbXKRw5PkbXKRw5PkbXKRw4PkdXKRwyfJ++Qihw+SL5CLHH5JvkEucvgh+Q65yeE/yddIpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSab9A8d7EQFX1u+5AAAAAElFTkSuQmCC",
+        "tag": "none"
+    },
+    {
+        "image_name": "2024-08-01_130.png",
+        "image_path": "C:\\Users\\yovelg\\Desktop\\VS_projects\\git_projects\\tagging_tool\\ObjectJSONizer\\JSONs\\2024-08-01_130\\2024-08-01_130.png",
+        "original_bbox": [
+            500.0,
+            340.0,
+            511.0,
+            361.0
+        ],
+        "expanded_bbox": [
+            490,
+            330,
+            512,
+            371
+        ],
+        "mask": "iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAAAAADRE4smAAAEQElEQVR4Ae3BgVHEABDEMLv/og8YPvki1pJkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmSaZJpkmmTVIUg2HX+UTDr+SRYdH5JBx0Oy53hJ9hwvyZ7jJdlzvCRzji/JnONLMuf4ksw5viR7jpdkz/GS7DlekkHHQzLoeEgGHQ/JouNDMun4Jxl1/FIyTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMk0yTTJNMu0HtBYX7lcRe2oAAAAASUVORK5CYII=",
+        "tag": "none"
+    }
+]
