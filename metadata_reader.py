@@ -3,7 +3,10 @@ import tifffile as tiff
 import json
 
 # Path to the TIFF file
-tif_path = r'C:\Users\yovelg\Desktop\VS_projects\git_projects\tagging_tool\ObjectJSONizer\masks\2024-08-01_117_mask_139.tif'
+HOME =  os.getcwd()
+ITEMS_DIR = os.path.join(os.path.dirname(HOME), 'items', 'masks')
+tif_path = os.path.join(ITEMS_DIR, '2024-08-01_117_mask_139.tif')
+# .
 
 # Check if the file exists
 if not os.path.exists(tif_path):

@@ -73,7 +73,7 @@ project/
 Run the script to process images:
 
 ```bash
-python MaskGenerator.py
+python firstTry.py
 ```
 
 ## Future Steps
